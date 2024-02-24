@@ -1,0 +1,6 @@
+[book]
+authors = ["Nima"]
+language = "en"
+multilingual = false
+src = "src"
+title = "mdBook video"
