@@ -1,6 +1,12 @@
 [book]
 authors = ["Nima"]
 language = "en"
-multilingual = false
+multilingual = true
 src = "src"
 title = "mdBook video"
+
+[output.html]
+additional-css = ["auto-dir.css", "general_customizations.css"]
+additional-js = ["general_customizations.js"]
+default-theme = "dark"
+preferred-dark-theme = "coal"
