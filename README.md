@@ -1,0 +1,3 @@
+- Dark theme: coal; users cannot edit
+- Arrows to move left and right removed
+- Automated language detection flow (ltr or rtl)
